@@ -8,6 +8,7 @@ body {
     flex-direction: column;
     min-height: 100vh;
 }
+
 /* -------------------------- */
 
 
@@ -30,7 +31,7 @@ body {
     background: white;
     color: #333;
     padding: 40px;
-    border: 2px solid ;
+    border: 2px solid;
     border-color: #DBA500;
     border-radius: 10px;
     box-shadow: 30px 30px 10px rgba(0, 0, 0, 0.1);
@@ -133,48 +134,51 @@ header ul li {
 
 }
 
-.carousel-inner{
+.carousel-inner {
     width: 700px;
     margin: 10px;
     border-radius: 10px;
 }
 
-.row {  
+.row {
     width: 100%;
     margin: 0;
     display: flex;
     align-items: center;
     justify-content: center;
 }
-.aside-box-left{
+
+.aside-box-left {
     width: 400px;
     height: 600px;
 }
 
-.col-md-6{
+.col-md-6 {
     width: 750px;
     height: 600px;
     margin: 10px;
 }
 
-.card-1{
+.card-1 {
     width: 350px;
     height: 600px;
     background-color: white;
     border-radius: 10px;
 }
-.card-text{
+
+.card-text {
     margin-top: 50px;
     color: black;
 }
-.card-title{
+
+.card-title {
     color: black;
 }
 
-.col-md-3{
+.col-md-3 {
     width: 350px;
     height: 600px;
-    
+
 }
 
 .flex {
@@ -190,6 +194,7 @@ header ul li {
     width: 100%;
     padding: 20px;
 }
+
 footer {
     width: 100%;
     background-color: #315676;
